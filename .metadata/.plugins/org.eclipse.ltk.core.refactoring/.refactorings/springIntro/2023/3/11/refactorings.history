@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;springIntro.CustomerDal&apos; to &apos;OracleCustomerDal&apos;&#x0D;&#x0A;- Original project: &apos;springIntro&apos;&#x0D;&#x0A;- Original element: &apos;springIntro.CustomerDal&apos;&#x0D;&#x0A;- Renamed element: &apos;springIntro.OracleCustomerDal&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;CustomerDal&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;springIntro{CustomerDal.java[CustomerDal" matchStrategy="1" name="OracleCustomerDal" qualified="false" references="true" similarDeclarations="false" stamp="1678308891610" textual="false" version="1.0"/>
+</session>

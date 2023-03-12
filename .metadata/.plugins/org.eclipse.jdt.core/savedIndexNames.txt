@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\campspring\.metadata\.plugins\org.eclipse.jdt.core
+2589704425.index
+1865797976.index
+1390515914.index
+289547560.index
